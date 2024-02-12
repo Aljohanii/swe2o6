@@ -6,4 +6,10 @@ public Class{
 
     
     public void selectionSort(String o){}
+
+    public void sort(int[] Array){
+        insertionSort(Array);
+    }
+
+    
 }
